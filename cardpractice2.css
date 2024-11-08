@@ -1,0 +1,111 @@
+* {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.shoes-block {
+  width: 300px;
+  height: 531px;
+  background-color: rgb(255, 255, 255);
+  box-shadow: 1px 1px 5px 3px rgb(197, 196, 196);
+  border-radius: 35px;
+  margin: 50px;
+  display: inline-block;
+}
+
+img {
+  width: 180px;
+  margin-left: 60px;
+  margin-right: 70px;
+  margin-top: 20px;
+}
+
+h1 {
+  text-align: center;
+  font-size: 35px;
+  color: rgb(20, 17, 17);
+  margin-bottom: 0;
+  margin-top: 0;
+}
+center {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+span {
+  color: grey;
+  font-size: large;
+}
+
+.star-image {
+  width: 30px;
+  margin-left: 15px;
+  margin-right: 0px;
+}
+button {
+  width: 300px;
+  border: none;
+  height: 65px;
+  padding-left: 0px;
+  padding-right: 0px;
+  border-radius: 0 0 35px 35px;
+  font-size: x-large;
+  font-weight: bold;
+  background-color: #0c82a0;
+  color: white;
+}
+
+.airpodes-block {
+  width: 300px;
+  height: 531px;
+  background-color: rgb(255, 255, 255);
+  box-shadow: 1px 1px 5px 3px rgb(197, 196, 196);
+  border-radius: 35px;
+  margin: 50px;
+  display: inline-block;
+  margin-left: 0;
+}
+.earphone {
+  background-color: #3d3e6c;
+}
+
+.watch-block {
+  width: 300px;
+  height: 531px;
+  background-color: rgb(255, 255, 255);
+  box-shadow: 1px 1px 5px 3px rgb(197, 196, 196);
+  border-radius: 35px;
+  margin: 50px;
+  display: inline-block;
+  margin-left: 0;
+}
+
+.watch {
+    background-color: black;
+}
+
+.phone-block {
+      width: 300px;
+  height: 531px;
+  background-color: rgb(255, 255, 255);
+  box-shadow: 1px 1px 5px 3px rgb(197, 196, 196);
+  border-radius: 35px;
+  margin: 50px;
+  display: inline-block;
+  margin-left: 0;
+}
+
+.iphone-img {
+width: 153px;
+}
+
+.phone {
+    background-color: orange;
+}
+
+button.footer {
+    border: none;
+    border-radius: 10px;
+    width: 500px;
+    background-color: tomato;
+
+}
